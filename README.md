@@ -14,8 +14,8 @@ Covid19 Clustering with K-means in Python
 
 
 <!-- codex-pixel-art -->
-## Pixel art
+## Project visual
 
-![Pixel art for Covid19-Clustering](assets/pixel-art.svg)
+![Pixel-art cover for Covid19-Clustering](assets/project-cover.png)
 
-A small visual signature for this repository.
+<sub>Pixel-art adaptation of [3D-medical-animation-corona-virus-fa](https://commons.wikimedia.org/wiki/File:3D-medical-animation-corona-virus-fa.png) by File:3D medical animation corona virus.jpg: https://www.scientificanimations.com derivative work: 4nn1l2, licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: Wikimedia Commons.</sub>

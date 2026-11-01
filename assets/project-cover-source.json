@@ -1,10 +1,11 @@
 {
-  "title": "3D-medical-animation-corona-virus-fa",
-  "author": "File:3D medical animation corona virus.jpg: https://www.scientificanimations.com derivative work: 4nn1l2",
+  "title": "OpenMoji microbe",
+  "author": "OpenMoji contributors",
   "license": "CC BY-SA 4.0",
-  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-  "source_url": "https://commons.wikimedia.org/wiki/File:3D-medical-animation-corona-virus-fa.png",
-  "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/3D-medical-animation-corona-virus-fa.png/1280px-3D-medical-animation-corona-virus-fa.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "commons_file": "File:3D-medical-animation-corona-virus-fa.png",
-  "query": "coronavirus scientific illustration"
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/618x618/1F9A0.png",
+  "download_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F9A0.png",
+  "commons_file": "1F9A0",
+  "query": "coronavirus scientific illustration",
+  "collection": "OpenMoji"
 }

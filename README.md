@@ -18,4 +18,4 @@ Covid19 Clustering with K-means in Python
 
 ![Pixel-art cover for Covid19-Clustering](assets/project-cover.png)
 
-<sub>Pixel-art adaptation of [3D-medical-animation-corona-virus-fa](https://commons.wikimedia.org/wiki/File:3D-medical-animation-corona-virus-fa.png) by File:3D medical animation corona virus.jpg: https://www.scientificanimations.com derivative work: 4nn1l2, licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: Wikimedia Commons.</sub>
+<sub>Pixel-art adaptation of [OpenMoji microbe](https://github.com/hfg-gmuend/openmoji/blob/master/color/618x618/1F9A0.png) by OpenMoji contributors, licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Source: OpenMoji.</sub>
